@@ -1,0 +1,2 @@
+# MyJsProject
+javascript
